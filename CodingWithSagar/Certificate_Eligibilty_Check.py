@@ -12,3 +12,4 @@ if(cws=='yes'):
         print("You are not eligible for certificate because you have attented less than 3 days")
 else:
     print("Sorry,you are not eligible for certificate")
+    #End of program
